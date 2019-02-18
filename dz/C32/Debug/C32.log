@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  C32.cpp
+c:\users\пользователь\source\repos\dz\c32\c32.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  C32.vcxproj -> C:\Users\Пользователь\source\repos\dz\Debug\C32.exe
